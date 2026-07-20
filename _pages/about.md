@@ -206,12 +206,7 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
 
 <h2 id="news">News</h2>
 
-<ul>
-  <li><strong>[2026.07]</strong> - Started my Master's program at Soochow University, focusing on Natural Language Processing.</li>
-  <li><strong>[2026.06]</strong> - Graduated from Shantou University with a Bachelor's degree in Computer Science and Technology.</li>
-  <li><strong>[2026.04]</strong> - Won Silver Award in Baidu Star Programming Competition.</li>
-  <li><strong>[2025.10]</strong> - Won Second Prize in RAICOM Robot Developer Competition (National Level).</li>
-</ul>
+<p style="color: #666; font-style: italic;">Stay tuned for upcoming news and updates.</p>
 
 <h2 id="publications">Selected Publications</h2>
 
