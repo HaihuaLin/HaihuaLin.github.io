@@ -202,9 +202,7 @@ redirect_from:
 
 ## About Me
 
-I am a **first-year master's student** at Huazhong University of Science and Technology (HUST), under the supervision of **Prof. [XXX]**. My research interests focus on **Multimodal Sentiment Analysis**, **AIGC**, and **Large Language Models**.
-
-🎯 I am currently working on [your current research focus].
+I am a **first-year master's student** at Soochow University, majoring in Computer Technology. My research interests focus on **Natural Language Processing**.
 
 🤝 I am eager to discuss potential collaborations and am actively seeking research opportunities. Please feel free to contact me via email if you are interested.
 
@@ -243,27 +241,26 @@ I am a **first-year master's student** at Huazhong University of Science and Tec
 <h2 id="awards">Awards</h2>
 
 <ul>
-  <li>Award 1</li>
-  <li>Award 2</li>
+  <li>Add your awards here</li>
 </ul>
 
 <h2 id="experience">Experience</h2>
 
 <div class="experience-container">
   <div class="experience-card">
-    <img src="images/hust.png" alt="HUST logo" class="experience-logo" />
+    <img src="images/suda.png" alt="Soochow University logo" class="experience-logo" />
     <div class="experience-info">
-      <strong>Huazhong University of Science and Technology</strong><br />
-      Sep 2025 - Present<br />
-      M.S. in Computer Science
+      <strong>Soochow University (苏州大学)</strong><br />
+      Sep 2026 - June 2029<br />
+      M.S. in Computer Technology
     </div>
   </div>
   <div class="experience-card">
-    <img src="images/your_university.png" alt="Your University logo" class="experience-logo" />
+    <img src="images/stu.png" alt="Shantou University logo" class="experience-logo" />
     <div class="experience-info">
-      <strong>Your Undergraduate University</strong><br />
-      Sep 2021 - June 2025<br />
-      B.E. in Computer Science
+      <strong>Shantou University (汕头大学)</strong><br />
+      Sep 2022 - June 2026<br />
+      B.E. in Computer Science and Technology
     </div>
   </div>
 </div>
