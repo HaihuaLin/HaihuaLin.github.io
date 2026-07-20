@@ -241,7 +241,13 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
 <h2 id="awards">Awards</h2>
 
 <ul>
-  <li>Add your awards here</li>
+  <li>Add your scholarships and honors here</li>
+</ul>
+
+<h2 id="competitions">Competitions</h2>
+
+<ul>
+  <li>Add your competition experience here</li>
 </ul>
 
 <h2 id="experience">Experience</h2>

@@ -20,6 +20,9 @@ main:
   - title: "Awards"
     url: /#awards
 
+  - title: "Competitions"
+    url: /#competitions
+
   - title: "Experience"
     url: /#experience
 
