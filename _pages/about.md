@@ -8,22 +8,32 @@ redirect_from:
 ---
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@700&family=Nunito:wght@400;500;600;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&family=Spectral:wght@400;500;600;700&display=swap');
 
-  /* 导航栏字体 */
+  /* 导航栏样式 */
+  .masthead {
+    background-color: #1a1a2e !important;
+  }
+
   .masthead__menu-item a {
-    font-family: 'Nunito', 'Arial Rounded MT Bold', 'Verdana', sans-serif !important;
+    font-family: 'Open Sans', 'Verdana', sans-serif !important;
     font-weight: 500;
+    color: #e0e0e0 !important;
+  }
+
+  .masthead__menu-item a:hover {
+    color: #e94560 !important;
   }
 
   .masthead__menu-item--lg a {
-    font-family: 'Playfair Display', 'Georgia', serif !important;
+    font-family: 'Spectral', 'Georgia', serif !important;
     font-weight: 700;
+    color: #ffffff !important;
   }
 
   /* 页面标题字体 */
   h1.page__title {
-    font-family: 'Playfair Display', 'Georgia', serif !important;
+    font-family: 'Spectral', 'Georgia', serif !important;
   }
 
   .experience-card {
@@ -47,14 +57,14 @@ redirect_from:
     object-fit: contain;
   }
   .experience-info {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: 'Open Sans', 'Verdana', sans-serif;
   }
   .experience-info strong {
     font-size: 1.1em;
   }
   .experience-info a {
     text-decoration: none;
-    color: #ca6f6f;
+    color: #e94560;
   }
   .experience-container {
     display: grid;
@@ -89,7 +99,7 @@ redirect_from:
     box-shadow: 0 8px 16px rgba(242, 166, 120, 0.4);
   }
   .paper-links a {
-    color: #ca6f6f !important;
+    color: #e94560 !important;
     text-decoration: none;
   }
   .paper-links a:hover {
@@ -197,17 +207,17 @@ redirect_from:
   }
   body {
     background-color: #FFFFFF;
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: 'Open Sans', 'Verdana', sans-serif;
     font-size: 15px;
   }
   .main-heading {
-    font-family: 'Playfair Display', 'Georgia', serif;
+    font-family: 'Spectral', 'Georgia', serif;
     text-align: center;
-    color: #ca6f6f;
+    color: #e94560;
   }
   div.markdown-body a, a {
     text-decoration: none !important;
-    color: #ca6f6f;
+    color: #e94560;
     transition: all 0.3s ease;
   }
   div.markdown-body a:hover, a:hover {
