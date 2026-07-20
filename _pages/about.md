@@ -8,42 +8,6 @@ redirect_from:
 ---
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&display=swap');
-
-  /* 导航栏样式 */
-  .masthead {
-    background-color: #1a1a2e !important;
-  }
-
-  .masthead__menu-item a,
-  .masthead__menu-item a:visited,
-  .masthead__menu-item a:link {
-    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
-    font-weight: 500;
-    color: #e0e0e0 !important;
-    text-decoration: none !important;
-  }
-
-  .masthead__menu-item a:hover {
-    color: #e94560 !important;
-    text-decoration: none !important;
-  }
-
-  .masthead__menu-item--lg a,
-  .masthead__menu-item--lg a:visited,
-  .masthead__menu-item--lg a:link {
-    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
-    font-weight: 600;
-    color: #ffffff !important;
-    text-decoration: none !important;
-    border-bottom: none !important;
-  }
-
-  /* 页面标题字体 */
-  h1.page__title {
-    font-family: 'Merriweather', 'Georgia', serif !important;
-  }
-
   .experience-card {
     display: flex;
     align-items: center;
@@ -65,14 +29,14 @@ redirect_from:
     object-fit: contain;
   }
   .experience-info {
-    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Arial Rounded MT Bold', 'Verdana', sans-serif;
   }
   .experience-info strong {
     font-size: 1.1em;
   }
   .experience-info a {
     text-decoration: none;
-    color: #3498db;
+    color: #ca6f6f;
   }
   .experience-container {
     display: grid;
@@ -107,11 +71,11 @@ redirect_from:
     box-shadow: 0 8px 16px rgba(242, 166, 120, 0.4);
   }
   .paper-links a {
-    color: #3498db !important;
+    color: #ca6f6f !important;
     text-decoration: none;
   }
   .paper-links a:hover {
-    color: #2980b9 !important;
+    color: #c71585 !important;
     text-decoration: underline;
   }
   .author-links a {
@@ -158,7 +122,7 @@ redirect_from:
   .bibtex-content pre {
     font-size: 13px;
     line-height: 1.5;
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: 'Arial Rounded MT Bold', 'Verdana', sans-serif;
     white-space: pre-wrap;
     word-wrap: break-word;
     margin: 0;
@@ -215,21 +179,21 @@ redirect_from:
   }
   body {
     background-color: #FFFFFF;
-    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Arial Rounded MT Bold', 'Verdana', sans-serif;
     font-size: 15px;
   }
   .main-heading {
-    font-family: 'Merriweather', 'Georgia', serif;
+    font-family: 'Permanent Marker', cursive;
     text-align: center;
-    color: #e94560;
+    color: #ca6f6f;
   }
   div.markdown-body a, a {
     text-decoration: none !important;
-    color: #3498db;
+    color: #ca6f6f;
     transition: all 0.3s ease;
   }
   div.markdown-body a:hover, a:hover {
-    color: #2980b9;
+    color: #c71585;
     text-decoration: underline;
   }
 </style>
@@ -274,10 +238,7 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
 <h2 id="awards">Awards</h2>
 
 <ul>
-  <li><strong>2026</strong> - Outstanding Graduate of School of Mathematics and Computer Science, Shantou University (2025-2026)</li>
-  <li><strong>2025</strong> - First-Class Comprehensive Scholarship, Shantou University (2024-2025)</li>
-  <li><strong>2025</strong> - Third-Class Comprehensive Scholarship, Shantou University (2023-2024)</li>
-  <li><strong>2024</strong> - Third-Class Comprehensive Scholarship, Shantou University (2022-2023)</li>
+  
 </ul>
 
 <h2 id="competitions">Competitions</h2>
