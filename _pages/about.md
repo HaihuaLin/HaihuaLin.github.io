@@ -8,32 +8,32 @@ redirect_from:
 ---
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&family=Spectral:wght@400;500;600;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&display=swap');
 
   /* 导航栏样式 */
   .masthead {
-    background-color: #1a1a2e !important;
+    background-color: #2c3e50 !important;
   }
 
   .masthead__menu-item a {
-    font-family: 'Open Sans', 'Verdana', sans-serif !important;
+    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 500;
-    color: #e0e0e0 !important;
+    color: #ecf0f1 !important;
   }
 
   .masthead__menu-item a:hover {
-    color: #e94560 !important;
+    color: #3498db !important;
   }
 
   .masthead__menu-item--lg a {
-    font-family: 'Spectral', 'Georgia', serif !important;
-    font-weight: 700;
+    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
+    font-weight: 600;
     color: #ffffff !important;
   }
 
   /* 页面标题字体 */
   h1.page__title {
-    font-family: 'Spectral', 'Georgia', serif !important;
+    font-family: 'Merriweather', 'Georgia', serif !important;
   }
 
   .experience-card {
@@ -57,14 +57,14 @@ redirect_from:
     object-fit: contain;
   }
   .experience-info {
-    font-family: 'Open Sans', 'Verdana', sans-serif;
+    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
   }
   .experience-info strong {
     font-size: 1.1em;
   }
   .experience-info a {
     text-decoration: none;
-    color: #e94560;
+    color: #3498db;
   }
   .experience-container {
     display: grid;
@@ -99,11 +99,11 @@ redirect_from:
     box-shadow: 0 8px 16px rgba(242, 166, 120, 0.4);
   }
   .paper-links a {
-    color: #e94560 !important;
+    color: #3498db !important;
     text-decoration: none;
   }
   .paper-links a:hover {
-    color: #c71585 !important;
+    color: #2980b9 !important;
     text-decoration: underline;
   }
   .author-links a {
@@ -207,21 +207,21 @@ redirect_from:
   }
   body {
     background-color: #FFFFFF;
-    font-family: 'Open Sans', 'Verdana', sans-serif;
+    font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
     font-size: 15px;
   }
   .main-heading {
-    font-family: 'Spectral', 'Georgia', serif;
+    font-family: 'Merriweather', 'Georgia', serif;
     text-align: center;
-    color: #e94560;
+    color: #2c3e50;
   }
   div.markdown-body a, a {
     text-decoration: none !important;
-    color: #e94560;
+    color: #3498db;
     transition: all 0.3s ease;
   }
   div.markdown-body a:hover, a:hover {
-    color: #c71585;
+    color: #2980b9;
     text-decoration: underline;
   }
 </style>
