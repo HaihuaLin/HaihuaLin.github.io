@@ -204,13 +204,10 @@ redirect_from:
 
 I am a **first-year master's student** at Soochow University, majoring in Computer Technology. My research interests focus on **Natural Language Processing**.
 
-🤝 I am eager to discuss potential collaborations and am actively seeking research opportunities. Please feel free to contact me via email if you are interested.
-
 <h2 id="news">News</h2>
 
 <ul>
-  <li><strong>[YYYY.MM]</strong> One paper is accepted by <strong>Conference/Journal Name</strong> 🔥</li>
-  <li><strong>[YYYY.MM]</strong> Started my master's journey at HUST</li>
+  
 </ul>
 
 <h2 id="publications">Selected Publications</h2>
@@ -241,13 +238,13 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
 <h2 id="awards">Awards</h2>
 
 <ul>
-  <li>Add your scholarships and honors here</li>
+  
 </ul>
 
 <h2 id="competitions">Competitions</h2>
 
 <ul>
-  <li>Add your competition experience here</li>
+  
 </ul>
 
 <h2 id="experience">Experience</h2>
@@ -265,17 +262,13 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
     <img src="images/shantou.png" alt="Shantou University logo" class="experience-logo" />
     <div class="experience-info">
       <strong>Shantou University</strong><br />
-      Sep 2022 - June 2026<br />
+      Oct 2022 - Jul 2026<br />
       B.E. in Computer Science and Technology
     </div>
   </div>
 </div>
 
 <h2 id="contact">Contact Me</h2>
-
-I truly believe that great ideas and improvements come from open discussions and debates in academia. If you have any thoughts, disagreements with my work, or fresh ideas you'd like to share, I'd be really grateful to hear from you.
-
-If you've got any questions about my research or if you've tried reaching out through GitHub issues and haven't heard back, please don't hesitate to drop me an email.
 
 My preferred emails: <span style="color: #c71585;">1994953194@qq.com</span> / <span style="color: #c71585;">linda1994953@gmail.com</span>
 
