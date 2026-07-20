@@ -238,7 +238,10 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
 <h2 id="awards">Awards</h2>
 
 <ul>
-  
+  <li><strong>2026</strong> - Outstanding Graduate of School of Mathematics and Computer Science, Shantou University (2025-2026)</li>
+  <li><strong>2025</strong> - First-Class Comprehensive Scholarship, Shantou University (2024-2025)</li>
+  <li><strong>2025</strong> - Third-Class Comprehensive Scholarship, Shantou University (2023-2024)</li>
+  <li><strong>2024</strong> - Third-Class Comprehensive Scholarship, Shantou University (2022-2023)</li>
 </ul>
 
 <h2 id="competitions">Competitions</h2>
