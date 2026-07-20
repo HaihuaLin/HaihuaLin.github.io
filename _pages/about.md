@@ -248,7 +248,7 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
 
 <div class="experience-container">
   <div class="experience-card">
-    <img src="images/suda.png" alt="Soochow University logo" class="experience-logo" />
+    <img src="images/苏大校徽.jpg" alt="Soochow University logo" class="experience-logo" />
     <div class="experience-info">
       <strong>Soochow University (苏州大学)</strong><br />
       Sep 2026 - June 2029<br />
@@ -256,7 +256,7 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
     </div>
   </div>
   <div class="experience-card">
-    <img src="images/stu.png" alt="Shantou University logo" class="experience-logo" />
+    <img src="images/汕大校徽.png" alt="Shantou University logo" class="experience-logo" />
     <div class="experience-info">
       <strong>Shantou University (汕头大学)</strong><br />
       Sep 2022 - June 2026<br />
