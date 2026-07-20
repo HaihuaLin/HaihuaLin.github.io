@@ -12,7 +12,7 @@ redirect_from:
 
   /* 导航栏样式 */
   .masthead {
-    background-color: #2c3e50 !important;
+    background-color: #1a1a2e !important;
   }
 
   .masthead__menu-item a,
@@ -20,12 +20,12 @@ redirect_from:
   .masthead__menu-item a:link {
     font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 500;
-    color: #5dade2 !important;
+    color: #e0e0e0 !important;
     text-decoration: none !important;
   }
 
   .masthead__menu-item a:hover {
-    color: #3498db !important;
+    color: #e94560 !important;
     text-decoration: none !important;
   }
 
@@ -34,7 +34,7 @@ redirect_from:
   .masthead__menu-item--lg a:link {
     font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 600;
-    color: #5dade2 !important;
+    color: #ffffff !important;
     text-decoration: none !important;
     border-bottom: none !important;
   }
