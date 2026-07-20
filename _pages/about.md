@@ -15,7 +15,9 @@ redirect_from:
     background-color: #2c3e50 !important;
   }
 
-  .masthead__menu-item a {
+  .masthead__menu-item a,
+  .masthead__menu-item a:visited,
+  .masthead__menu-item a:link {
     font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 500;
     color: #ffffff !important;
@@ -24,9 +26,12 @@ redirect_from:
 
   .masthead__menu-item a:hover {
     color: #3498db !important;
+    text-decoration: none !important;
   }
 
-  .masthead__menu-item--lg a {
+  .masthead__menu-item--lg a,
+  .masthead__menu-item--lg a:visited,
+  .masthead__menu-item--lg a:link {
     font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 600;
     color: #ffffff !important;
@@ -216,7 +221,7 @@ redirect_from:
   .main-heading {
     font-family: 'Merriweather', 'Georgia', serif;
     text-align: center;
-    color: #2c3e50;
+    color: #e94560;
   }
   div.markdown-body a, a {
     text-decoration: none !important;
