@@ -217,7 +217,28 @@ I am a **first-year master's student** at Huazhong University of Science and Tec
 
 <h2 id="publications">Selected Publications</h2>
 
-<!-- Add your publications here -->
+<!-- Add your publications here with the following format:
+<div class="publication-card">
+  <div class="image-wrapper" onclick="openLightbox('images/your_paper.png')">
+    <img src="images/your_paper.png" alt="Paper Title" class="paper-image" />
+  </div>
+  <div class="publication-details">
+    <span style="color:#ca6f6f; font-weight:500;">Paper Title</span><br/>
+    <div class="author-links" style="font-size: 13px">
+      Author 1, <strong>Your Name</strong>, Author 3
+    </div>
+    <div style="font-size: 13px;">Conference/Journal Name</div>
+    <div class="paper-links" style="font-size:13px;">
+      <a href="#" class="abstract-toggle" onclick="toggleAbstract(event, 'abstract-1')">[Abstract]</a>
+      <a href="paper_link">[Paper]</a>
+      <a href="code_link">[Code]</a>
+    </div>
+    <div id="abstract-1" class="abstract-container">
+      <div class="abstract-content">Your abstract here...</div>
+    </div>
+  </div>
+</div>
+-->
 
 <h2 id="awards">Awards</h2>
 
