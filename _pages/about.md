@@ -8,7 +8,23 @@ redirect_from:
 ---
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@700&family=Nunito:wght@400;500;600;700&display=swap');
+
+  /* 导航栏字体 */
+  .masthead__menu-item a {
+    font-family: 'Nunito', 'Arial Rounded MT Bold', 'Verdana', sans-serif !important;
+    font-weight: 500;
+  }
+
+  .masthead__menu-item--lg a {
+    font-family: 'Playfair Display', 'Georgia', serif !important;
+    font-weight: 700;
+  }
+
+  /* 页面标题字体 */
+  h1.page__title {
+    font-family: 'Playfair Display', 'Georgia', serif !important;
+  }
 
   .experience-card {
     display: flex;
