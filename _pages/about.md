@@ -47,7 +47,10 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
 <h2 id="awards">Awards</h2>
 
 <ul>
-  
+  <li><strong>2025</strong> - Shantou University Comprehensive Scholarship (Third Prize)</li>
+  <li><strong>2024</strong> - National Encouragement Scholarship</li>
+  <li><strong>2024</strong> - Shantou University Comprehensive Scholarship (Third Prize)</li>
+  <li><strong>2024</strong> - Third Prize in National Mathematical Modeling Contest for College Students (Guangdong Provincial Division)</li>
 </ul>
 
 <h2 id="competitions">Competitions</h2>
