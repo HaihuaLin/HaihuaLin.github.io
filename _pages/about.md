@@ -277,7 +277,7 @@ I truly believe that great ideas and improvements come from open discussions and
 
 If you've got any questions about my research or if you've tried reaching out through GitHub issues and haven't heard back, please don't hesitate to drop me an email.
 
-My preferred email: <span style="color: #c71585;">1994953194@qq.com</span>
+My preferred emails: <span style="color: #c71585;">1994953194@qq.com</span> / <span style="color: #c71585;">linda1994953@gmail.com</span>
 
 <!-- Lightbox Overlay -->
 <div id="lightbox-overlay" onclick="closeLightbox()">
