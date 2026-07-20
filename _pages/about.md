@@ -18,7 +18,8 @@ redirect_from:
   .masthead__menu-item a {
     font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 500;
-    color: #ecf0f1 !important;
+    color: #ffffff !important;
+    text-decoration: none !important;
   }
 
   .masthead__menu-item a:hover {
@@ -29,6 +30,8 @@ redirect_from:
     font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 600;
     color: #ffffff !important;
+    text-decoration: none !important;
+    border-bottom: none !important;
   }
 
   /* 页面标题字体 */
