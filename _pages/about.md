@@ -20,7 +20,7 @@ redirect_from:
   .masthead__menu-item a:link {
     font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 500;
-    color: #ffffff !important;
+    color: #5dade2 !important;
     text-decoration: none !important;
   }
 
@@ -34,7 +34,7 @@ redirect_from:
   .masthead__menu-item--lg a:link {
     font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 600;
-    color: #ffffff !important;
+    color: #5dade2 !important;
     text-decoration: none !important;
     border-bottom: none !important;
   }
