@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: right; margin-bottom: 10px;">
-  <a href="/about-zh/" style="font-size: 14px; padding: 5px 15px; border: 1px solid #ccc; border-radius: 4px; text-decoration: none; color: #333;">中文</a>
-</div>
-
 <h1 id="introduction">Hi there <img src="images/Hi.gif" width="40px" /> Welcome to my Homepage!</h1>
 
 ## About Me
