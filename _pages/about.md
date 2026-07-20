@@ -244,7 +244,17 @@ I am a **first-year master's student** at Soochow University, majoring in Comput
 <h2 id="competitions">Competitions</h2>
 
 <ul>
-  
+  <li><strong>2026</strong> - Second Prize in Lanqiao Cup National Software and Information Technology Competition (National Level)</li>
+  <li><strong>2026</strong> - Silver Award in Baidu Star Programming Competition (Provincial Level)</li>
+  <li><strong>2026</strong> - Silver Award in Mati Cup Programming Competition (Provincial Level)</li>
+  <li><strong>2025</strong> - Second Prize in RAICOM Robot Developer Competition (National Level)</li>
+  <li><strong>2025</strong> - Third Prize in Chuanzhi Cup National IT Skills Competition (National Level)</li>
+  <li><strong>2025</strong> - Individual Third Prize in National Team Programming Ladder Competition (National Finals)</li>
+  <li><strong>2025</strong> - Team Second Prize in National Team Programming Ladder Competition (National Finals)</li>
+  <li><strong>2025</strong> - Merit Award in China Collegiate Programming Contest (Guangdong Provincial)</li>
+  <li><strong>2024</strong> - Third Prize in National Mathematical Modeling Contest for College Students (Guangdong Provincial Division)</li>
+  <li><strong>2024</strong> - Second Prize in National College Computer Skills Challenge (Provincial Level)</li>
+  <li><strong>2024</strong> - Second Prize in National College Students Mathematics Competition (Provincial Level)</li>
 </ul>
 
 <h2 id="experience">Experience</h2>
