@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haihua Lin - Personal Homepage"
+# title: "Haihua Lin - Personal Homepage"
 author_profile: true
 redirect_from:
   - /about/
